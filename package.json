@@ -1,0 +1,12 @@
+{
+  "name": "sabri-training-chaima",
+  "version": "1.0.0",
+  "description": "Sabri is training chaima about cruds",
+  "main": "servers.js\u001b[D\u001b[D\u001b[",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
